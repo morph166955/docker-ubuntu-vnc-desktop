@@ -1,12 +1,13 @@
 backports.ssl-match-hostname==3.7.0.1
 certifi==2019.9.11
+cffi==1.15.1
 chardet==3.0.4
 Click==7.0
 Flask==1.1.1
 Flask-Login==0.4.1
-gevent==1.4.0
+gevent>=20.9.0
 gevent-websocket==0.10.1
-greenlet==0.4.15
+greenlet>=0.4.17
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.11.3
